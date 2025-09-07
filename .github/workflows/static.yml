@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Envangelista Gás</title>
+</head>
+<body style="text-align:center; font-family:Arial, sans-serif; background:#f4f4f4; margin:0; padding:20px;">
+  <h1 style="color:#e63946;">Envangelista Gás</h1>
+  <p>Pedidos de Gás - Aberto das 6h às 18h (Segunda a Domingo)</p>
+  <a href="https://wa.me/558184069035?text=Olá,+quero+fazer+um+pedido+de+gás."
+     style="display:inline-block; margin-top:40px; background:#25d366; color:white; padding:15px 25px; font-size:20px; border-radius:10px; text-decoration:none;"
+     target="_blank">
+     Pedir pelo WhatsApp
+  </a>
+  <footer style="margin-top:50px; color:#555;">
+    <p>&copy; 2025 Envangelista Gás</p>
+  </footer>
+</body>
+</html>
